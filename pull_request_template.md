@@ -22,6 +22,7 @@ Describe in a few sentences the approach you took to address the problem.
 
 - [ ] Security impact of change has been considered
 - [ ] Code follows company security practices and guidelines
+- [ ] Automated tests covering modified code pass
 
 Example:
 > The CSV import logic generalizes well so I simply added the previously unsupported transaction types to the list of transactions. The outright import failures were caused by transactions with empty dates, so I added some code to ignore those. Finally, for any transaction we ignored I added logging in place so that in the future we have a good idea what transactions fail to import, without having to download and analyze the user's CSVs.
