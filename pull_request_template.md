@@ -1,3 +1,6 @@
+This PR resolves XX-1234.
+<!-- Use the Linear ticket code, like PPP-123. -->
+
 ## Problem description
 Describe here what problem you are solving. If you are adding new functionality, describe why the new functionality is added. Often this is (or should be) the same description is in the Linear ticket.
 Please don't just link to the Linear ticket here, don't force the reviewer to jump back and forth between GH and Linear.
