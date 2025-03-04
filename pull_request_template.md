@@ -36,6 +36,14 @@ Example:
 If you are running a DB migration make sure you have read the [How to run a database migration doc](https://www.notion.so/cointracker/How-to-run-a-database-migration-af5f44646abc46d1a5275be75b63c49a). Include any migration steps that will help reviewing your migration PR.
 --->
 
+## Documentation
+<!---
+If you are adding new functionality (e.g. an integration), make sure to update the relevant documentation.
+
+Example:
+> [Coverage Support](https://www.notion.so/cointracker/Integrations-Coverage-Support-1aca6ee5e05f80058a6af2a8fc6df5b4)
+--->
+
 ## Future work
 
 <!---
